@@ -1,4 +1,4 @@
-Small discord bot for searching documentation from devdocs.io.
+Small discord bot for searching python documentation from devdocs.io.
 To search just type !python keyword.
 Pass to client.run(your_bot_token) from https://discordapp.com/developers/applications/
 Dont forget to choose bot's permissions.
